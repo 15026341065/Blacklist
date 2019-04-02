@@ -4,11 +4,11 @@
 
 #### 如有需要，请查看[互联网公司黑名单列表](https://github.com/w3cvip/Blacklist/blob/master/list.md)
 
-### 注意！！！这些公司都是网友整理，与作者无任何关系，如您所在公司的处于名单之中且不符合事实依据，请联系作者进行删除。
+#### 注意！！！这些公司都是网友整理，与作者无任何关系，如您所在公司的处于名单之中且不符合事实依据，请联系作者进行删除。
 
-《 [互联网公司黑名单列表](https://github.com/w3cvip/Blacklist/blob/master/list.md)   
+《 [互联网公司黑名单列表](https://github.com/w3cvip/Blacklist/blob/master/list.md) 》
 
-### 这些公司的特征表现为：
+#### 这些公司的特征表现为：
 - 延迟购买社保期限；
 - 面试时谈好的薪资福利与转正后有差距；
 - 延长试用期；
