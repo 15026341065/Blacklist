@@ -1,6 +1,4 @@
-## Blacklist
-成都互联网公司黑名单
-
+## 成都互联网公司黑名单
 
 #### 如有需要，请查看[互联网公司黑名单列表](https://github.com/w3cvip/Blacklist/blob/master/list.md)
 
